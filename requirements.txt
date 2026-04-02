@@ -1,0 +1,6 @@
+requests
+transformers
+torch
+python-dotenv
+schedule
+yfinance

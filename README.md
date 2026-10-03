@@ -81,6 +81,4 @@ Feel free to fork this project and add more bots!
 
 Stay sharp. 🔥
 
-## Support
 
-[Donate](https://drive.google.com/file/d/14KBkEcr6j4KaxDHcHyejdYlFDt4GjR6O/view?usp=drive_link)

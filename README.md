@@ -80,3 +80,7 @@ PulseBot is designed to run 24/7 on [Railway](https://railway.app).
 Feel free to fork this project and add more bots!
 
 Stay sharp. 🔥
+
+## Support
+
+[Donate](https://drive.google.com/file/d/14KBkEcr6j4KaxDHcHyejdYlFDt4GjR6O/view?usp=drive_link)
